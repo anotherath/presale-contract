@@ -1,0 +1,7 @@
+/.vscode
+/artifacts
+/cache
+/scripts
+/.env
+/note.txt
+/node_modules
